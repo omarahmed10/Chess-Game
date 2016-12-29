@@ -15,5 +15,5 @@ The user must specify an additional character indicating the desired piece.
 ##Undo and Redo: 
 The game could be undone till the first move.
 ##Save and Load:
-– At any time, the game could be saved to a file
-– A saved game could be loaded and continued
+- At any time, the game could be saved to a file
+- A saved game could be loaded and continued
